@@ -1,0 +1,53 @@
+{
+  "samples": 5,
+  "valid": 5,
+  "exact": 5,
+  "tokenErrorRate": 0.0,
+  "rows": [
+    {
+      "sampleId": "synthetic-01",
+      "valid": true,
+      "error": null,
+      "exact": true,
+      "edits": 0,
+      "referenceTokens": 5,
+      "predictionTokens": 5
+    },
+    {
+      "sampleId": "synthetic-02",
+      "valid": true,
+      "error": null,
+      "exact": true,
+      "edits": 0,
+      "referenceTokens": 5,
+      "predictionTokens": 5
+    },
+    {
+      "sampleId": "synthetic-03",
+      "valid": true,
+      "error": null,
+      "exact": true,
+      "edits": 0,
+      "referenceTokens": 5,
+      "predictionTokens": 5
+    },
+    {
+      "sampleId": "synthetic-04",
+      "valid": true,
+      "error": null,
+      "exact": true,
+      "edits": 0,
+      "referenceTokens": 5,
+      "predictionTokens": 5
+    },
+    {
+      "sampleId": "synthetic-05",
+      "valid": true,
+      "error": null,
+      "exact": true,
+      "edits": 0,
+      "referenceTokens": 5,
+      "predictionTokens": 5
+    }
+  ]
+}

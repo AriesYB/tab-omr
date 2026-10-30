@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180">
+<rect width="640" height="180" fill="white"/>
+<path d="M20 30H620" stroke="black"/>
+<path d="M20 50H620" stroke="black"/>
+<path d="M20 70H620" stroke="black"/>
+<path d="M20 90H620" stroke="black"/>
+<path d="M20 110H620" stroke="black"/>
+<path d="M20 130H620" stroke="black"/>
+<path d="M20 30V130M620 30V130" stroke="black"/>
+<rect x="86" y="18" width="32" height="24" fill="white"/><text x="100" y="37" text-anchor="middle" font-size="20" font-family="monospace">0</text>
+<rect x="216" y="38" width="32" height="24" fill="white"/><text x="230" y="57" text-anchor="middle" font-size="20" font-family="monospace">3</text>
+<rect x="346" y="58" width="32" height="24" fill="white"/><text x="360" y="77" text-anchor="middle" font-size="20" font-family="monospace">2</text>
+<rect x="476" y="18" width="32" height="24" fill="white"/><text x="490" y="37" text-anchor="middle" font-size="20" font-family="monospace">12</text>
+</svg>
