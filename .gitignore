@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 data/private/
 reports/local/
+node_modules/
+web/dist/
+web/public/font/
+web/public/soundfont/
+gps/
